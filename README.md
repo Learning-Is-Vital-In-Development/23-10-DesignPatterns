@@ -9,20 +9,20 @@
 
 | Chapter       | 정리 자료 
 :--------------|:-----:
-| 01. 디자인 패턴 소개와 전략 패턴      |[정리 자료 보러가기]()
-| 02. 옵저버 패턴  |[정리 자료 보러가기]()
-| 03. 데코레이터 패턴       |[정리 자료 보러가기]()
-| 04. 팩토리 패턴 |[정리 자료 보러가기]()
-| 05. 싱글턴 패턴      |[정리 자료 보러가기]()
-| 06. 커맨드 패턴      |[정리 자료 보러가기]()
-| 07. 어댑터 패턴과 퍼사드 패턴      |[정리 자료 보러가기]()
-| 08. 템플릿 메소드 패턴      |[정리 자료 보러가기]()
-| 09. 반복자 패턴과 컴포지트 패턴      |[정리 자료 보러가기]()
-| 10. 상태 패턴      |[정리 자료 보러가기]()
-| 11. 프록시 패턴      |[정리 자료 보러가기]()
-| 12. 복합 패턴      |[정리 자료 보러가기]()
-| 13. 실전 디자인 패턴      |[정리 자료 보러가기]()
-| 14. 기타 패턴      |[정리 자료 보러가기]()
+| 01. 디자인 패턴 소개와 전략 패턴|[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch01)
+| 02. 옵저버 패턴  |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch02)
+| 03. 데코레이터 패턴       |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch03)
+| 04. 팩토리 패턴 |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch04)
+| 05. 싱글턴 패턴      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch05)
+| 06. 커맨드 패턴      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch06)
+| 07. 어댑터 패턴과 퍼사드 패턴  |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch07)
+| 08. 템플릿 메소드 패턴      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch08)
+| 09. 반복자 패턴과 컴포지트 패턴 |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch09)
+| 10. 상태 패턴      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch10)
+| 11. 프록시 패턴      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch11)
+| 12. 복합 패턴      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch12)
+| 13. 실전 디자인 패턴      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch13)
+| 14. 기타 패턴      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns/tree/main/ch14)
 
 
 ## 진행방식
