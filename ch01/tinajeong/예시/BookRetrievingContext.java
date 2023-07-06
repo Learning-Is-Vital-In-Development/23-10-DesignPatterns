@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class BookRetrievingContext {
 
-    private static HashMap<String,BookApiOperations> bookOperationMap;
+    private final HashMap<String,BookApiOperations> bookOperationMap;
 
     BookRetrievingContext() {
         bookOperationMap = new HashMap<>();
