@@ -7,8 +7,9 @@ export class AppService {
   constructor(private readonly authServiceStrategy: AuthServiceStrategy) {}
 
   async login(store: Store, id: string, password: string) {
+    console.log(store)
     await this.authServiceStrategy.get(store).authorize({ id, password });
   }
 }
 
-export const APP_SERVICE = 'APP_SERVICE';
+export const APP_SERVICE = 'APP_SERVICE'

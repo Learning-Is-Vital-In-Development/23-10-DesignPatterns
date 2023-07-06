@@ -3,9 +3,8 @@ import { APP_SERVICE, AppService } from '@app/app/src/service/app.service';
 import { Controller, Post, Param, Inject } from '@nestjs/common';
 
 @Controller('post')
-export class PostController {
+export class AppController {
   constructor(
-    @Inject(APP_SERVICE)
     private readonly appService: AppService,
   ) {}
 
