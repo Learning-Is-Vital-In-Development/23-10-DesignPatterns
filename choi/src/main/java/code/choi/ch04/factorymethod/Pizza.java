@@ -1,0 +1,16 @@
+package code.choi.ch04.factorymethod;
+
+public abstract class Pizza {
+
+    public void prepare() {
+    }
+
+    public void bake() {
+    }
+
+    public void cut() {
+    }
+
+    public void box() {
+    }
+}
