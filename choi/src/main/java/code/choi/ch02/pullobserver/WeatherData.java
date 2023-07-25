@@ -29,17 +29,14 @@ public class WeatherData implements Subject {
         observers.forEach(Observer::update);
     }
 
-    @Override
     public float getTemperature() {
         return temperature;
     }
 
-    @Override
     public float getHumidity() {
         return humidity;
     }
 
-    @Override
     public float getPressure() {
         return pressure;
     }
