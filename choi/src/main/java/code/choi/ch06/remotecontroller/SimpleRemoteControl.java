@@ -1,0 +1,17 @@
+package code.choi.ch06.remotecontroller;
+
+public class SimpleRemoteControl {
+    Command slot;
+
+    public SimpleRemoteControl() {
+    }
+
+    public void setCommand(Command command) {
+        slot = command;
+    }
+
+    public void buttonWasPressed() {
+        slot.execute();
+    }
+
+}
